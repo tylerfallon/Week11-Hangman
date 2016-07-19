@@ -1,3 +1,5 @@
+// Run this file to play the game
+
 // Get data from other files
 
 var gameRandomizer = require('./game.js');
